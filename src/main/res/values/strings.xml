@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">abc123</string>
+    <array name="lista">
+        <item>uczen1</item>
+        <item>uczen2</item>
+        <item>uczen3</item>
+    </array>
+    <array name="zdj">
+        <item>android</item>
+        <item>bank</item>
+        <item>zegar</item>
+    </array>
+</resources>
